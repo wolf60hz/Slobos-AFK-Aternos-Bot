@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Monsterbetter",
+    "username": "regianna",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "awdasdaw.aternos.me",
+    "ip": "EclipseFish.aternos.me",
     "port": 54912,
     "version": "",
     "try-creative": false
@@ -33,7 +33,8 @@
       "messages": [
         "I'm a regular player",
         "Unknown is the best!",
-        "I like to play Minecraft!"
+        "I like to play Minecraft!",
+        "Monster>Redbull"
       ]
     },
     "chat-log": true,
